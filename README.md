@@ -1,4 +1,6 @@
 # SOLO-DBM-files
+German translation fork!
+
 Swords of Legends Online DBM Files
 
 DBM known from WoW is a mod for getting informations of Bosses. This works kinda same for SOLO.
