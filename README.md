@@ -8,4 +8,4 @@ and you are done.
 Go to interface setting find Boss event menu for the alert and Boss event tip list for boss skill casting time.
  
  
- Note(I didnt make any of the DBM files,i download on chinese forum and translate to english.)
+ Note(I didnt make any of the DBM files,i download on chinese forum and translate to english.Some of the Dungeon or Raid is missing because i cant find it at any chinese forum.)
