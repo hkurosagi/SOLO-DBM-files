@@ -9,10 +9,12 @@ In game under map find Captain's Assisant open event manager will open up Boss e
 
 Go to interface setting find Boss event menu for the alert and Boss event tip list for boss skill casting time.
 
-Can check out this guide: https://www.youtube.com/watch?v=0ukB-82ewas&t=117s 
+Please check out this video for more detail : https://www.youtube.com/watch?v=0ukB-82ewas&t=117s 
  
- Note(I didnt make any of the DBM files,i download on chinese forum and translate to english.Some of the Dungeon or Raid is missing because i cant find it at any chinese forum.)
+Note (I didn't make any of the DBM files, i download them on chinese forum and translate to english. Some of the Dungeon/Raid is missing because i can't find on any chinese forum)
 
+
+Credit goes to https://github.com/brrratz (German translation)
 
 
 
