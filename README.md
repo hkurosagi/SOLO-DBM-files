@@ -18,4 +18,6 @@ German translation Credit goes to https://github.com/brrratz
 
 
 
+Thank leifide69 for sharing his Ruins of Nuowu DBM file Credit: https://www.twitch.tv/leifide69 
+
 
