@@ -1,6 +1,8 @@
 # SOLO-DBM-files
 Swords of Legends Online DBM Files.
 
+DBM Update on march 11 2022
+
 Instructions
 
 
@@ -18,6 +20,5 @@ German translation Credit goes to https://github.com/brrratz
 
 
 
-Thank leifide69 for sharing his Ruins of Nuowu DBM file Credit: https://www.twitch.tv/leifide69 
 
 
