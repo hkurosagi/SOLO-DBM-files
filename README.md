@@ -1,7 +1,7 @@
 # SOLO-DBM-files
 Swords of Legends Online DBM Files.
 
-DBM Update on march 11 2022
+DBM Update on April 21 2022
 
 Instructions
 
