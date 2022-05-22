@@ -1,8 +1,8 @@
 # SOLO-DBM-files
 Swords of Legends Online DBM Files.
 
-DBM Update on MAY 19 2022
-Hard taihua update 
+DBM Update on MAY 22 2022
+Hard taihua, EX WUYU AND JUBAO update 
 
 Instructions
 
