@@ -2,7 +2,7 @@
 Swords of Legends Online DBM Files.
 
 DBM Update on MAY 22 2022
-Hard taihua, EX WUYU AND JUBAO update 
+EX taihua and LQB, EX WUYU AND JUBAO update 
 
 Instructions
 
