@@ -1,8 +1,8 @@
 # SOLO-DBM-files
 Swords of Legends Online DBM Files.
 
-DBM Update on MAY 29 2022
-EX taihua and LQB, EX WUYU AND JUBAO update 
+DBM Update on June 22 2022
+NM HM Wild Demon Isle and Three-Legged Sea update 
 
 Instructions
 
