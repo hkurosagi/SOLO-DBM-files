@@ -1,9 +1,9 @@
 # SOLO-DBM-files
 Swords of Legends Online DBM Files.
 
-DBM Update on June 22 2022
+DBM Update on July 7 2022
 
-NM HM Wild Demon Isle and Three-Legged Sea update 
+NM Demon Battlefield update 
 
 Instructions
 
