@@ -1,9 +1,9 @@
 # SOLO-DBM-files
 Swords of Legends Online DBM Files.
 
-DBM Update on July 21 2022
+DBM Update on august 4 2022
 
-NM Realm of Hallucinations,Realm of Destroyed Evil update 
+Demon Battlefield HM update 
 
 Instructions
 
