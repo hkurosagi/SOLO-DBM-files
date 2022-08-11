@@ -1,9 +1,9 @@
 # SOLO-DBM-files
 Swords of Legends Online DBM Files.
 
-DBM Update on august 4 2022
+DBM Update on august 9 2022
 
-Demon Battlefield HM update 
+Realm of Hallucinations Hard update 
 
 Instructions
 
@@ -20,6 +20,7 @@ Note (I didn't make any of the DBM files, i download them on chinese forum and t
 
 German translation Credit goes to https://github.com/brrratz 
 
+Credit:Cap assist for Boss 1 is make by by Salty Fish NA Guild Tapioca aka miniboba
 
 
 
