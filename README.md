@@ -20,7 +20,7 @@ Note (I didn't make any of the DBM files, i download them on chinese forum and t
 
 German translation Credit goes to https://github.com/brrratz 
 
-Credit:Cap assist for Boss 1 is make by by Salty Fish NA Guild Tapioca aka miniboba
+Credit:Realm of Hallucinations Hard Cap assist for Boss 1 is make by by Salty Fish NA Guild Tapioca aka miniboba
 
 
 
