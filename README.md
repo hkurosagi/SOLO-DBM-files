@@ -1,9 +1,9 @@
 # SOLO-DBM-files
 Swords of Legends Online DBM Files.
 
-DBM Update on August 26 2022
+DBM Update on Sep 1 2022
 
-Realm of Destroyed Evil Hard update 
+Flight from the Heart Demon Normal,Hard update 
 
 Instructions
 
