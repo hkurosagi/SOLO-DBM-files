@@ -3,7 +3,7 @@ Swords of Legends Online DBM Files.
 
 DBM Update on Sep 1 2022
 
-Flight from the Heart Demon Normal,Hard update 
+Clash Over Divine Waters Normal update 
 
 Instructions
 
