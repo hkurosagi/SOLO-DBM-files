@@ -22,6 +22,6 @@ German translation Credit goes to https://github.com/brrratz
 
 Credit:Realm of Hallucinations Hard Cap assist for Boss 1 is make by Salty Fish NA Guild Tapioca aka miniboba
 
-
+https://streamelements.com/hkurosagi/tip
 
 
