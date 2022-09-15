@@ -17,11 +17,12 @@ Please check out this video for more detail : https://www.youtube.com/watch?v=0u
  
 Note (I didn't make any of the DBM files, i download them on chinese forum and translate to english. Some of the Dungeon/Raid is missing because i can't find on any chinese forum)
 
+Donation for the support :https://streamelements.com/hkurosagi/tip
+
 
 German translation Credit goes to https://github.com/brrratz 
 
 Credit:Realm of Hallucinations Hard Cap assist for Boss 1 is make by Salty Fish NA Guild Tapioca aka miniboba
 
-https://streamelements.com/hkurosagi/tip
 
 
